@@ -8,6 +8,7 @@ public class Principal{
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite um numero:");
         numero = entrada.nextInt();
+
         if(numero %2 == 0){
             System.out.println("Numero"+ numero+"e par!");
         }else{
