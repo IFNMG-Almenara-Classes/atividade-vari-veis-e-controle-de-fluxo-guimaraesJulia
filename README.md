@@ -4,7 +4,7 @@
 ## Orientações
 
 - Cada uma das questões deve ser entregue dentro de um pacote, que deve estar no diretório `src`.
-  Exemplo: `src/questao01`,`src/questao02`,...,`src/questaoXX`.
+  Exemplo: `src/questao01`,`src/questao02.questao02`,...,`src/questaoXX`.
 
 - Dentro de cada pacote deverá conter uma classe chamada Principal que deverá ter o método main.
 
