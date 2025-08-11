@@ -1,6 +1,7 @@
+package questao02;
 import java.util.Scanner;
 
-public class questao02{
+public class Principal {
     public static void main(String[] args) {
         int num1,num2;
         Scanner entrada = new Scanner(System.in);
